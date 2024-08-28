@@ -11,7 +11,7 @@ Blockchain consists of "Distributed ledger technologies", meaning it can track a
   + Creates trust in data
   > "proof of work" means the solution is shared to other computers on the network to be verified.
  
-  Since all computers on the blockchain are able to verify it's **originality**, we can trust the chain.\  
+  Since all computers on the blockchain are able to verify it's **originality**, we can trust the chain.
   + No need for intermediaries
   + trusted peer-to-peer interaction
 </Details>
