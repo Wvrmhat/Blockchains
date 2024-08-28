@@ -3,7 +3,8 @@
 Blockchain consists of "Distributed ledger technologies", meaning it can track and record anything from financial transactions to land titles.
 
 <Details>
-  <summary>Reasons blockchain is advantageous</summary>\
+  <summary>Reasons blockchain is advantageous</summary>
+  
   > It stores data in blocks, if they are all linked it is called a blockchain. Since it uses the ledger method, all changes made are recorded.\
 
   However it is decentralized and distributed. This allows it to be secure 
@@ -17,4 +18,6 @@ Blockchain consists of "Distributed ledger technologies", meaning it can track a
 
 ---
 
-Blockains can be private or public, there are also hybrid public-private approaches.
+Blockchains can be private or public, there are also hybrid public-private approaches.
+
+
