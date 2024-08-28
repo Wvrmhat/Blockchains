@@ -16,4 +16,4 @@
 </details>
 
 > [!NOTE]
-> For this folder we will be making use of **Solidity**.
+> For this folder we will be making use of **Solidity** and the [Remix IDE](https://remix.ethereum.org/#lang=en&optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.26+commit.8a97fa7a.js) .
