@@ -5,7 +5,7 @@ Blockchain consists of "Distributed ledger technologies", meaning it can track a
 <Details>
   <summary>Reasons blockchain is advantageous</summary>
   
-  > It stores data in blocks, if they are all linked it is called a blockchain. Since it uses the ledger method, all changes made are recorded.\
+  > It stores data in blocks, if they are all linked it is called a blockchain. Since it uses the ledger method, all changes made are recorded.
 
   However it is decentralized and distributed. This allows it to be secure 
   + Creates trust in data
